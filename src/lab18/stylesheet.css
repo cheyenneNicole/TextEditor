@@ -1,0 +1,9 @@
+
+.button:hover{
+    -fx-background-color: #C2E4FC;
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-background-radius: 30;
+    -fx-alignment: CENTER;
+    -fx-padding: 10 10 10 10;
+}
